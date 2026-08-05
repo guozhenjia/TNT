@@ -1,0 +1,3 @@
+Triggering GitHub Actions workflow to render animatic.
+Timestamp: 2026-08-05T09:31:00Z
+This file was created by Copilot to trigger the render-animatic workflow.
